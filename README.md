@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 
 ![Cijo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cijo4&layout=compact&theme=algolia)
 
-![Cijo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cijo4&show_icons=true&theme=algolia)
+![Cijo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cijo4&count_private=true&layout=compact&theme=algolia)
 
